@@ -6,6 +6,7 @@ use warnings;
 our $VERSION = "0.02";
 
 sub a { }
+sub b { }
 
 1;
 __END__
