@@ -7,6 +7,8 @@ our $VERSION = "0.02";
 
 sub a { }
 sub b { }
+sub c { }
+sub d { }
 
 1;
 __END__
