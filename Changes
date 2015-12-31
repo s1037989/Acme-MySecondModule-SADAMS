@@ -2,6 +2,9 @@ Revision history for Perl extension Acme-MySecondModule-SADAMS
 
 {{$NEXT}}
 
+0.03 2015-12-31T06:43:28Z
+    - add subs
+
 0.02 2015-12-31T06:40:57Z
     - add sub
 
